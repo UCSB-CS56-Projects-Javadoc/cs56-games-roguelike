@@ -1,3 +1,2 @@
-# cs56-games-roguelike-javadoc
-Javadoc for the CS56 Roguelike game
-https://ucsb-cs56-f16.github.io/cs56-games-roguelike-javadoc/javadoc/index.html
+# cs56-games-roguelike
+Javadoc for https://github.com/UCSB-CS56-Projects/cs56-games-roguelike
